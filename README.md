@@ -1,12 +1,12 @@
-#№ Retail Sales & Customer Analysis
+## Retail Sales & Customer Analysis
 
-## Project Overview
+### Project Overview
 
 This project analyzes retail transaction data to understand sales performance, customer behavior, product performance, and geographic patterns.
 
 The analysis is based on the Online Retail dataset, which contains transaction-level data for a UK-based online retailer from December 2010 to December 2011.
 
-## Project Objectives
+### Project Objectives
 
 The main objectives are to:
 
