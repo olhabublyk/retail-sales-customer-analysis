@@ -76,6 +76,7 @@ The dataset was obtained through Kaggle.
 
 ## Project Structure
 
+```text
 retail-analysis/
 │
 ├── data/
