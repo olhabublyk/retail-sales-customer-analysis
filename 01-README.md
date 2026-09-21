@@ -76,10 +76,18 @@ The dataset was obtained through Kaggle.
 
 ## Project Structure
 
-```text
-retail-sales-customer-analysis/
+retail-analysis/
 │
-├── README.md
-├── retail_analysis.sql
-├── retail_sales_customer_analysis.ipynb
-└── retail_analysis_result.xlsx
+├── data/
+├── notebooks/
+│   └── retail_analysis.ipynb
+│
+├── sql/
+│   └── retail_analysis.sql
+│
+├── power_bi/
+│   ├── dashboard_screenshot_1.png
+│   ├── dashboard_screenshot_2.png
+│   └── dashboard_screenshot_3.png
+│
+└── README.md
