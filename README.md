@@ -79,16 +79,21 @@ The dataset was obtained through Kaggle.
 ```text
 retail-analysis/
 │
-├── data/
-├── notebooks/
+├── 01-data/
+├── notebook/
 │   └── retail_analysis.ipynb
 │
-├── sql/
+├── 02-sql/
 │   └── retail_analysis.sql
+|
+|── 03-results/
+│   └── retail_analysis_results.xlsx
 │
 ├── power_bi/
-│   ├── dashboard_screenshot_1.png
-│   ├── dashboard_screenshot_2.png
-│   └── dashboard_screenshot_3.png
+│   ├── 01-Overview.png
+│   ├── 02-Customer Analysis.png
+│   └── 03-Product Analysis.png
+|   └── 04-Geography Analysis.png
+|   └── retail_sales_customer_analysis.pbix
 │
 └── README.md
