@@ -95,11 +95,11 @@ retail-analysis/
 |── 03-results/
 │   └── retail_analysis_results.xlsx
 │
-├── power_bi/
-│   ├── 01-Overview.png
-│   ├── 02-Customer Analysis.png
-│   └── 03-Product Analysis.png
-|   └── 04-Geography Analysis.png
+├── 04-power_bi/
+│   ├── 01-overview.png
+│   ├── 02-customer-analysis.png
+│   └── 03-product-analysis.png
+|   └── 04-geography-analysis.png
 |   └── retail_sales_customer_analysis.pbix
 │
 └── README.md
