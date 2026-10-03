@@ -57,6 +57,15 @@ The main objectives are to:
 - Top 10 countries by paying customers
 - Geographic performance
 
+## Data Source
+
+The dataset is the **Online Retail** dataset from the UCI Machine Learning Repository.
+
+- Original source: [UCI Machine Learning Repository: Online Retail](https://archive.ics.uci.edu/dataset/352/online-retail)
+- Copy used in this project: [Kaggle: Online Retail Data Set from UCI ML Repo](https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo)
+
+**Note:** The `InvoiceDate` column in the Kaggle copy has inconsistent formats (some dates have day and month swapped). This is corrected in the data cleaning step of the notebook.
+
 ## Tools
 
 - **Python** — data cleaning, exploratory analysis, calculations, and visualization
