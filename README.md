@@ -110,5 +110,7 @@ retail-analysis/
 │   └── 03-product-analysis.png
 |   └── 04-geography-analysis.png
 |   └── retail_sales_customer_analysis.pbix
+|
+└── HOW-TO-RUN.md
 │
 └── README.md
