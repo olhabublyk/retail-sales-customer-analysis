@@ -1,5 +1,9 @@
 ## Retail Sales & Customer Analysis
 
+![Dashboard overview](power_bi/01-overview.png)
+
+*Interactive Power BI dashboard built on 12 months of UK online retail transactions.*
+
 ### Project Overview
 
 This project analyzes retail transaction data to understand sales performance, customer behavior, product performance, and geographic patterns.
