@@ -1,10 +1,10 @@
 ## Retail Sales & Customer Analysis
 
-![Overview](power_bi/01-overview.png)
+![Overview](04-power_bi/01-overview.png)
 
 | Customers | Products | Geography |
 |---|---|---|
-| ![Customers](power_bi/02-customer-analysis.png) | ![Products](power_bi/03-product-analysis.png) | ![Geography](power_bi/04-geography-analysis.png) |
+| ![Customers](04-power_bi/02-customer-analysis.png) | ![Products](04-power_bi/03-product-analysis.png) | ![Geography](04-power_bi/04-geography-analysis.png) |
 
 ### Project Overview
 
