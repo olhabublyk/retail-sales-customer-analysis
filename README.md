@@ -1,8 +1,10 @@
 ## Retail Sales & Customer Analysis
 
-![Dashboard overview](power_bi/01-overview.png)
+![Overview](power_bi/01-overview.png)
 
-*Interactive Power BI dashboard built on 12 months of UK online retail transactions.*
+| Customers | Products | Geography |
+|---|---|---|
+| ![Customers](power_bi/02-customer-analysis.png) | ![Products](power_bi/03-product-analysis.png) | ![Geography](power_bi/04-geography-analysis.png) |
 
 ### Project Overview
 
